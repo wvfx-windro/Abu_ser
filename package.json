@@ -1,14 +1,14 @@
 {
-  "name": "MAALUTTY_V3",
+  "name": "Sana-Mwol",
   "version": "7.3.6",
-  "description": "maalutty is the Modified Version of WhatsAsena, Made By @nijin-husni with Baileys.",
-  "main": "./MAALUTTY_V3/bot.js",
+  "description": "Sana is the Modified Version of WhatsAsena, Made By @Ajx-Abu with Baileys.",
+  "main": "./Sana-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nijin-husni/MAALUTTY_V3.git"
+    "url": "git+https://github.com/Ajx-Abu/Sana-Mwol.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "nijin-husni",
-  "developer": "@nijin-husni / @nijin-husni",
+  "author": "Ajx-Abu",
+  "developer": "@Ajx-Abu / @Ajx-Abu",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/nijin-husni/MAALUTTY_V3/issues"
+    "url": "https://github.com/Ajx-Abu/Sana-Mwol/issues"
   },
-  "homepage": "https://github.com/nijin-husni/MAALUTTY_V3#readme",
+  "homepage": "https://github.com/Ajx-Abu/Sana-Mwol3#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
