@@ -1,7 +1,7 @@
 /* Copyright (C) 2020 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
-re edited-by nijin husni
-Maalutty-nijin-husni
+re edited-by Ajx-Abu
+Sana-Ajx-Abu
 */
 
 const fs = require("fs");
@@ -11,7 +11,7 @@ const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./maalutty/');
+const {Message, StringSession, Image, Video} = require('./Sana/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
@@ -138,12 +138,12 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('Maalutty is Working😍 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 🍃'));
+            chalk.green.bold('💖Sana is Working💖 ' + config.WORKTYPE + ' new 🍃'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
-                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/maalutty.jpg"), MessageType.image, { caption: `*ʜᴇʏ ʙʀᴏ ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3 ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` 🥂* \n\n*ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴍᴀᴀʟᴜᴛᴛʏ_ᴠ3🥂*`});
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/sana.png"), MessageType.image, { caption: `*💙ʜᴇʏ ʙʀᴏ sᴀɴᴀ ᴍᴡᴏʟ ɪs  ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` ❤️* \n\n*💝ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ sᴀɴᴀ ᴍᴡᴏʟ ᴀɴᴅ ᴀʙᴜ sᴇʀ ʙᴏᴛ💝* \n\n*💝ᴘʟᴇᴀsᴇ ɴɪɴɢᴀʟᴜᴅᴇ sᴀᴘᴘᴏʀᴛ ᴠᴇɴᴀᴍ 😥ɴɪɴɢᴀʟᴏᴋᴋᴇ ᴏʟʟᴜ ɴᴀᴍᴍᴀᴋ💝** \n\n*😍ᴀᴘᴘᴏ ᴇɴɢᴀɴᴇ ᴘᴏʟɪ ᴀʟʟᴇ sᴀɴᴀ ᴍᴡᴏʟ ғᴇᴇᴅ ʙᴀᴄᴋ sᴇɴᴛ ᴄʜᴀʏʏɪᴛᴏ ᴀʙᴜᴠɪɴᴛᴇ ᴡʜᴀᴛsᴀᴘᴏɪʟᴇᴋ😍*`});
                 } else {
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*◄━⦁💝 MAALUTTY_V3💝⦁━►*' + degisiklikler + '```', MessageType.text
+                        '*◄━⦁💝 Sana Mwol💝⦁━►*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -336,8 +336,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ MAALUTTY_V3 ~______~*' +
-                                    '\n*MAALUTTY ERROR🔰' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤ SANA MWOL️💙 ~______~*' +
+                                    '\n*SANA IS  ERROR🔰' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
