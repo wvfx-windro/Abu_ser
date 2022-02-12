@@ -1,123 +1,53 @@
- <img src="https://i.ibb.co/MPJ93X9/20211209-205206.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://i.ibb.co/6tbmPj1/maaluttty.jpg" alt="GIF" width="250" height="250"/>
+<div align="center">
+  <p align="center">
+<img src=https://i.ibb.co/nPSmv7d/dd75acba3c0361cca99b05b1e5b6d5c6.png>
+</p>
+ </a>
 </p>
 
-<a href="#"><img title="MAALUTTY_V3" src="https://img.shields.io/badge/MAALUTTY_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐀𝐁𝐔+𝐒𝐄𝐑+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐉𝐀𝐒𝐈𝐋;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+
+ </a>
 </p>
+<div align="center">
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<img src="https://www.linkpicture.com/q/rafi.png?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
+</p>
+
+  <p align="center">
+<a href="#"><img title="AbuSer" src="https://img.shields.io/badge/JASIL-ABU_SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐀𝐛𝐮 𝐒𝐞𝐫
     <br>
        | © |
         Reserved |
     <br> 
 </p>
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
-
-## Setup
-<div align="center">
-
-  ### Simple Method
- 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTYV3-QR)
-  
-  ### Deploy server 1
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Husni-ser/MAALU) 
-
-  ### Deploy server 2
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HUSNI-SIR/MAALUTTY_DEPLOY)
-
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node maalutty.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
-$ npm i
-$ node maalutty.js
-```
-
-----
-
-  <p align="center">
-  <a href="httsp://github.com/nijin-husni/MAALUTTY_V3">
-    
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/nijin-husni/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
+<img src=https://i.imgur.com/8LiFere.png>
 </p>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇 
-##Not allowed bots on this group 🔰
+
+<a href="https://github.com/Ajx-Abu/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+<br>
+<div>
+<a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<br>
+
+<a href="https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Abu_ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+   <br>
+<div>
+<a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
+
+##
+  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
+<p align="center">
+CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY)
-  <div align="center">
-
-
-Click WA logo to Join public bot Group👇
-##Bots allowed grops 🔰
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BUt420LTGKBHNHALHKV9jJ)
-  <div align="center">
-
-  </div>
-
-### youtube👇
-
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA)
-
-
-### contact on instagram👇
-
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
-
-
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-
-## Developers
-  <div align="center">
-    
-  [![Ameen-ser](https://github.com/Ameen-ser.png?size=100)](https://github.com/Ameen-ser) | [![nijin-husni](https://github.com/nijin-husni.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/Farhan-dqz.png?size=100)](https://github.com/luciferking1) 
-----|----|----
-[Ameen-ser](https://github.com/Ameen-ser) | [nijin-husni](https://github.com/nijin-husni) | [Farhan](https://github.com/Farhandqz) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Developer, Base, Bug Fixes, Modules
-  </div>
-    
-    
-
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/M9ThzcR.png" alt="kyrie.baran" height="100" width="300" /></a>
+</p> 
