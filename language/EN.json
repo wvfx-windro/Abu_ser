@@ -79,9 +79,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Maalutty",
+            "RESTART_DESC": "Restart 💖Sana",
             "RESTART_MSG": "*Helo Master* 🥰\n\n*I Am Restarting Please Wait It Will Take 5 Minuit*",
-            "SHUTDOWN_DESC": "Shutdown Maalutty",
+            "SHUTDOWN_DESC": "Shutdown 💖Sana",
             "SHUTDOWN_MSG": "*Ok Bye I Am Sleeping Now* 💤\n\n*Shuting Down* ⚠️",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -188,7 +188,7 @@
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
-            "TTS_DESC": "It converts text to sound.",
+            "TTS_DESC": "It 💖Sana Converts text to sound.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
             "ISONG_DESC": "Uploads the song you wrote for ios users.",
@@ -215,9 +215,9 @@
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replied photo or video to sticker.",
+            "STICKER_DESC": "It 💖Sana Converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Wait Your Media Converting To Sticker is Maalutty💖```"
+            "DOWNLOADING": "```Wait Your Media 💖Sana Converting To Sticker is 💖Sana💖```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -239,14 +239,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*ᴍᴀᴀʟᴜᴛᴛʏ ɪs ᴀʟʀᴇᴀᴅʏ ᴜᴘᴅᴀᴛᴇᴅ ʙʀᴏ💝*",
-            "NEW_UPDATE": "*New update available for Maalutty!*\n\n*To update Bot give this command: .update now*\n\n*Ask support group and update*\n*https://chat.whatsapp.com/KJWUNpT7lBzDuPGnlV69Vp*\n\nChanges:\n```",
+            "UPDATE": "*sᴀɴᴀ ᴍᴡᴏʟ ɪs ᴀʟʀᴇᴀᴅʏ ᴜᴘᴅᴀᴛᴇᴅ ʙʀᴏ💝*",
+            "NEW_UPDATE": "*New update available for 💖Sana!*\n\n*To update Bot give this command: .update now*\n\n*Ask support group and update*\n*https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "ᴍᴀᴀʟᴜᴛᴛʏ ᴜᴘᴅᴀᴛɪɴɢ...ᴘʟs ᴡ8 ʙʀᴏ💞",
+            "UPDATING": "sᴀɴᴀ ᴍᴡᴏʟ ᴜᴘᴅᴀᴛɪɴɢ...ᴘʟs ᴡ8 ʙʀᴏ💞",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*successful Update maalutty😍*",
+            "UPDATED": "*successful Update 💖Sana😍*",
             "UPDATED_LOCAL": "*✅ Updated!*",
-            "AFTER_UPDATE": "ᴍᴀᴀʟᴜᴛᴛʏ ʀᴇsᴛᴀʀᴛɪɴɢ... ᴘʟs ᴡ8 ʙʀᴏ💞",
+            "AFTER_UPDATE": "sᴀɴᴀ ᴍᴡᴏʟ ʀᴇsᴛᴀʀᴛɪɴɢ... ᴘʟs ᴡ8 ʙʀᴏ💞",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -280,7 +280,7 @@
             "APK_MOD": "It sends some special mod apks",
             "CARBON_DESC": "It sends carbon picture",
             "TEMP": "Temperature",
-            "BOT_DESC": "Chat with Maalutty.\n Use .maalu <message>",
+            "BOT_DESC": "Chat with 💖Sana.\n Use .maalu <message>",
             "BOT": ":",
             "DEVICE": "It shows the details of device",
             "DESC": "Description",
@@ -303,14 +303,14 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "maalutty Converts video to audio.",
+            "MP4TOAUDİO_DESC": "💖Sana Converts video to audio.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Media!*",
-            "MP4TOAUDİO": "♻️ ```maalutty Converting Your Media to Audio..``` ♻️",
-            "ANİM_STİCK": "Converts animated stickers to video.",
-            "ANİMATE": "```Converting Animated Sticker To Video..```",
-            "STİCKER_DESC": "Converts the sticker to a photo.",
+            "MP4TOAUDİO": "♻️ ```💖Sana 💖Sana Converting Your Media to Audio..``` ♻️",
+            "ANİM_STİCK": "💖Sana Converts animated stickers to video.",
+            "ANİMATE": "```💖Sana Converting Animated Sticker To Video..```",
+            "STİCKER_DESC": "💖Sana Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*You Must Reply to a sticker!*",
-            "STİCKER": "```Converting the sticker to a photo..```",
+            "STİCKER": "```💖Sana Converting the sticker to a photo..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -399,9 +399,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "Converts audio to sound recording.",
+            "UV_DESC": "💖Sana Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to the Audio File!*",
-            "UV_PROC": "```Converting to Sound Recording..```"
+            "UV_PROC": "```💖Sana Converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -438,13 +438,13 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "Converts text to plain painting.",
+            "TTP_DESC": "💖Sana Converts text to plain painting.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
             "NEED_WORD": "*You must enter words!*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
-            "TRUMP_DESC": "Converts the text to Trump's tweet.",
+            "TRUMP_DESC": "💖Sana Converts the text to Trump's tweet.",
             "CHANGE_DESC": "Turns the text into the change my mind poster.",
-            "GLOW_DESC": "Converts text into neon painting."
+            "GLOW_DESC": "💖Sana Converts text into neon painting."
         },
         "wallpaper": {
             "WP": "It sends high resolution wallpapers."
@@ -456,7 +456,7 @@
         "voicy": {
             "NEED_REPLY": "```Please reply to any message!```",
             "ONLY_AUDIO":"```Only audio file is accepted.```",
-            "USAGE": "It converts audio to text.",
+            "USAGE": "It 💖Sana Converts audio to text.",
             "TEXT": "*Hey! I listened secretly to this voice and heard those!:* \n\n"
         },
         "notes": {
@@ -466,7 +466,7 @@
             "SAVE_USAGE": "Reply a message and type .save or just use .save <Your note> without replying",
             "REPLY": "Please provide a note or reply to a message.",
             "SUCCESSFULLY_ADDED": "Successfully added new note, check your notes with .notes.",
-            "UNSUCCESSFUL": "Could not add note, please try again later or contact Maalutty developers.",
+            "UNSUCCESSFUL": "Could not add note, please try again later or contact 💖Sana developers.",
             "DELETE_USAGE": "Deletes *all* your saved notes.",
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
         },
