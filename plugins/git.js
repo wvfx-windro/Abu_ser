@@ -1,49 +1,49 @@
-/* Copyright (C) nijin-husni
+/* Copyright (C) Aᴊx-Aʙᴜ
 Mwonu credits kalayalle
-Maalutty-nijin-husni
+Sana-Aᴊx-Aʙᴜ
 */
 
-const Maalutty = require('../events');
+const Sana = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/6tbmPj1/maaluttty.jpg";
+    r_text[0] = "https://i.imgur.com/SoMPTZ5.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 MAALUTTY_V3💝⦁━►
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
 
 
-*owner number husni* :https://wa.me/917025868709.
+*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025868709.
             
 
-*owner number Nijin* :https://wa.me/919605385305.
+*Oᴡɴᴇʀ number Sᴀɴᴀ* :https://wa.me/919605385305.
 
 
-*owner id instagram* :https://instagram.com/_husni_ser_.
+*Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Sᴀɴᴀ Mᴡᴏʟ* :https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk_.
 
 
-*github* : https://github.com/nijin-husni/MAALUTTY_V3.
+*Gɪᴛ Lɪɴᴋs* : https://github.com/Ajx-Abu/Sana-Mwol.
 
 
-*audio commands* :https://github.com/nijin-husni/media/tree/main/bgm.
+*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Ajx-Abu/sana-media/tree/main/bgm.
 
 
-*sticker commands* :https://github.com/nijin-husni/media/tree/main/stickers.
+*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Ajx-Abu/sana-media/tree/main/stickers.
 
-◄━⦁💝 MAALUTTY_V3💝⦁━►
-■□ ~NIJIN~ AND ~HUSNI~■□ 
+◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
+■□ ~💙 𝐀𝐁𝐔 ❤️I💙 𝐒𝐀𝐍𝐀 ❤️~■□ 
 
 `}) 
 
