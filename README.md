@@ -18,7 +18,7 @@
 </p>
 
   <p align="center">
-<a href="#"><img title="Sana" src="https://img.shields.io/badge/Abu-Sana-Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sana" src="https://img.shields.io/badge/Abu-Sana-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
@@ -28,8 +28,7 @@
         Reserved |
     <br> 
 </p>
-<img src=https://i.imgur.com/8LiFere.png>
-</p>
+
 
 
 <a href="https://github.com/Ajx-Abu/Sana-Mwol/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
