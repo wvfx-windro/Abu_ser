@@ -1,9 +1,9 @@
-/* Copyright (C) 2020 nijin-husni.
+/* Copyright (C) 2022 Ajx-Abu
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-nijin-husni - husni,nijin
+Sana - Ajx-Abu
 */
 
 const Asena = require('../events');
