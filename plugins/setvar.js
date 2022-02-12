@@ -10,17 +10,17 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/3ypJ8QW/20211209-194953.jpg";
+    r_text[0] = "https://i.imgur.com/SoMPTZ5.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
-   HELLO 👋 💝ᴍᷝᴀⷮᴀᷤɩᴜᴛⷨᴛⷷy💝
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋 𝐒𝐄𝐓𝐕𝐀𝐑💘━━⛦
+   HELLO 👋 💝Iᴀᴍ Sᴀɴᴀ Mᴡᴏʟ💝
   
-    *Nijin and Husni*
+    *Bʏ Sᴀɴᴀ Mᴡᴏʟ Tᴇᴀᴍ *
 ■□■□■□■□■□■□■□■□■□■□
 All setvars are
 
@@ -84,15 +84,15 @@ All setvars are
  💌To change bad word remove list
  .setvar THERI_LIST:badword,badword
 
- 💌To change AMALSER bot name
+ 💌To change SANA bot name
  .setvar BOT_NAME:your bot name
 
  💌To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-    □■□Nijin and Husni■□■□
+    □■□❤️ sᴀɴᴀ ᴍᴡᴏʟ ᴛᴇᴀᴍ 💙■□■□
 
-      ════💝MAALUTTY_V3💝═════
+      ════💝𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝═════
 `}) 
 
 }));
