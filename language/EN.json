@@ -17,7 +17,7 @@
             "UNOFF": "⚠️ *Attention!* \n*The plugin you have installed is not official!*",
             "INVALID_URL": "```Please enter a valid url!```",
             "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:*",
-            "INSTALLED": "*✅ Plugin has been successfully installed!*",
+            "INSTALLED": "*✅ Sana Mwol  Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
             "NO_PLUGIN": "*You have not installed any external plugins!*",
@@ -29,7 +29,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*I am not admin in this group!🥺*",
+            "IM_NOT_ADMIN": "*😥sᴀɴᴀ ᴍᴡᴏʟᴇ ᴇᴇ ɢʀᴏᴜᴘɪʟ ᴀʀᴜᴍ ᴀᴅᴍɪɴ ᴀᴋɪʏɪʟʟᴀ sᴀᴅ ᴀᴋɪ!🥺*",
             "BANNED": "kicked out of the group!😎",
             "GIVE_ME_USER": "*Give me a user!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -40,7 +40,7 @@
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
             "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
-            "DEMOTED": "```, has been demoted!```",
+            "DEMOTED": "```, ᴍᴜᴛʜᴇ ɴɪɴɴᴇ ᴀᴅᴍɪɴɪʟ ɴɪɴɴᴜᴍ ɴᴊᴀɴ ᴏʏᴠᴀᴄᴋɪ🤭!```",
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.\n⌨️ Example: .mute & .mute 5m etc",
             "MUTED": "```Group chat muted!```",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
@@ -79,7 +79,7 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart 💖Sana",
+            "RESTART_DESC": "Restart 💖sᴀɴᴀ ",
             "RESTART_MSG": "*Helo Master* 🥰\n\n*I Am Restarting Please Wait It Will Take 5 Minuit*",
             "SHUTDOWN_DESC": "Shutdown 💖Sana",
             "SHUTDOWN_MSG": "*Ok Bye I Am Sleeping Now* 💤\n\n*Shuting Down* ⚠️",
@@ -199,11 +199,11 @@
             "URL": "LINK",
             "THUMB": "THUMB",
             "RATING": "RATING",
-            "UPLOADING_SONG": "*Uploading*",
+            "UPLOADING_SONG": "*💖sᴀɴᴀ Uploading*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/Lv4gYo6Ss2o```",
             "DOWNLOADING_VIDEO": "*Downloading*",
-            "UPLOADING_VIDEO": "*Uploading*",
+            "UPLOADING_VIDEO": "*💖sᴀɴᴀ Uploading*",
             "LOADING": "*Downloading video*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
@@ -212,12 +212,12 @@
             "SEARCHING": "* 🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "Uploading photo ```{}``` number ```{} ```..."
+            "IMG": "💖sᴀɴᴀ Uploading photo ```{}``` number ```{} ```..."
         },
         "sticker": {
             "STICKER_DESC": "It 💖Sana Converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Wait Your Media 💖Sana Converting To Sticker is 💖Sana💖```"
+            "DOWNLOADING": "```Wait Your Media 💖Sana Converting To Sticker```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -280,7 +280,7 @@
             "APK_MOD": "It sends some special mod apks",
             "CARBON_DESC": "It sends carbon picture",
             "TEMP": "Temperature",
-            "BOT_DESC": "Chat with 💖Sana.\n Use .maalu <message>",
+            "BOT_DESC": "Chat with 💖Sana.\n Use .sana <message>",
             "BOT": ":",
             "DEVICE": "It shows the details of device",
             "DESC": "Description",
@@ -305,7 +305,7 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "💖Sana Converts video to audio.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Media!*",
-            "MP4TOAUDİO": "♻️ ```💖Sana 💖Sana Converting Your Media to Audio..``` ♻️",
+            "MP4TOAUDİO": "♻️ ```💖Sana Converting Your Media to Audio..``` ♻️",
             "ANİM_STİCK": "💖Sana Converts animated stickers to video.",
             "ANİMATE": "```💖Sana Converting Animated Sticker To Video..```",
             "STİCKER_DESC": "💖Sana Converts the sticker to a photo.",
