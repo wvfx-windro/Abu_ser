@@ -1,4 +1,4 @@
-const WhatsAlexa = require('../events');
+const Sana = require('../events');
 
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 
@@ -20,7 +20,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-WhatsAlexa.addCommand({pattern: '.git', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+Sana.addCommand({pattern: '.git', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 
 // send a buttons message!
 
@@ -38,7 +38,7 @@ WhatsAlexa.addCommand({pattern: '.git', fromMe: whb, dontAddCommandList: true}, 
 
       const buttonMessage = {
 
-          contentText: "♡︎ ᴄʟɪᴠᴋ ᴛᴏ ʙᴜᴛᴛᴏɴ ♡︎",
+          contentText: "♡︎ ᴄʟɪcᴋ ᴛᴏ ʙᴜᴛᴛᴏɴ ♡︎",
 
           footerText: '™ᴀʙᴜ ©',
 
