@@ -29,7 +29,7 @@ return await message.sendMessage(`🎀 ʜᴇʀᴏᴋᴜ ᴄᴏᴍᴍᴀɴᴅs�
 ┣𝕾⃝🌹 ᴛᴀɢ
 ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍`);
 }));
-Sana.addCommand({ pattern: 'mp3 ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+Sana.addCommand({ pattern: 'ar ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 return await message.sendMessage(`🌺 ᴍᴘ3 ᴄᴏᴍᴍᴀɴᴅs🌺
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ┣𝕾⃝🌺 ᴍᴘ3
@@ -59,7 +59,7 @@ return await message.sendMessage(`🌺 ᴍᴘ3 ᴄᴏᴍᴍᴀɴᴅs🌺
 ┣𝕾⃝🌺 ɪɴғᴏ
 ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍`);
 }));
-Sana.addCommand({ pattern: 'song ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+Sana.addCommand({ pattern: 'helo ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 return await message.sendMessage(`🎥 ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴍᴀɴᴅs🎥
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ┣𝕾⃝🎥 ᴠɪᴅᴇᴏ
