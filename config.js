@@ -55,7 +55,7 @@ module.exports = {
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD,
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGU,
-    TALKING_MAALUTTY: process.env.TALKING_SANA === undefined ? 'false' : process.env.TALKING_MAALUTTY,
+    TALKING_SANA: process.env.TALKING_SANA === undefined ? 'false' : process.env.TALKING_SANA,
     SAID: process.env.BGM_DURATION === undefined ? '39999600' : process.env.BGM_DURATION,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
