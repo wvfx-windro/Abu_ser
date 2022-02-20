@@ -61,6 +61,16 @@
             "required": true,
             "value": "true"
         },
+        "LG_LOGO": {
+            "description": "LOGO list message image link(https://telegra.ph/)link.",
+            "required": true,
+            "value": "https://i.imgur.com/yQWf4ty.jpeg"
+        },
+        "LOGO_NAME": {
+            "description": "Set the logo list name",
+            "required": true,
+            "value": "♡︎𝙸𝚃𝚉 𝙼𝙴 𝚂𝙰𝙽𝙰 𝙼𝚆𝙾𝙻♡︎"
+        },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
             "required": true,
