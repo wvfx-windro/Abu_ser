@@ -1,4 +1,4 @@
-const Sana = require('../events');
+const WhatsAlexa = require('../events');
 
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 
@@ -20,7 +20,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Sana.addCommand({pattern: 'link', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+WhatsAlexa.addCommand({pattern: 'link', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 
 // send a buttons message!
 
@@ -31,8 +31,6 @@ Sana.addCommand({pattern: 'link', fromMe: whb, dontAddCommandList: true}, (async
         {buttonId: 'id2', buttonText: {displayText: '♡︎..𝙶𝚁𝙾𝚄𝙿..𝙻𝙸𝙽𝙺..♡︎   \n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk'}, type: 1},
 
         {buttonId: 'id3', buttonText: {displayText: '♡︎..𝙾𝚆𝙽𝙴𝚁..♡︎    \n\n\nhttp://wa.me/917025994178'}, type: 1}
-        
-        {buttonId: 'id4', buttonText: {displayText: '♡︎..𝙰𝙱𝚄..𝚂𝙴𝚁..♡︎    \n\n\n✰𝙰𝙱𝚄..𝚂𝙴𝚁..𝙸𝚂..𝙼𝚈..𝙾𝚆𝙽𝙴𝚁✰'}, type: 1}
 
       ]
 
@@ -40,9 +38,9 @@ Sana.addCommand({pattern: 'link', fromMe: whb, dontAddCommandList: true}, (async
 
       const buttonMessage = {
 
-          contentText: "𝙲𝙻𝙸𝙲𝙺 𝚃𝙷𝙸𝚂 𝙱𝚄𝚃𝚃𝙾𝙽",
+          contentText: "♡︎..ᴄʟɪᴄᴋ..ʜᴇʀ..ᴛᴏ..ʙᴜᴛᴛᴏɴ..♡︎",
 
-          footerText: '™ ♡︎..ᴀʙᴜ ©',
+          footerText: '™♡︎..ᴀʙᴜ..©',
 
           buttons: buttons,
 
