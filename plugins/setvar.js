@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = Config.LG_LOGO";
+    r_text[0] = Config.LOGOSK";
     
     
     var i = Math.floor(1*Math.random())
