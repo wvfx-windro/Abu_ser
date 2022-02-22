@@ -35,7 +35,7 @@ module.exports = {
     MENTION: process.env.TAG_REPLY === undefined ? '917025994178@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
-    AFPLK: process.env.SANA_PASSWORD === undefined ? false : process.env.MAALUTTY_PASSWORD,
+    AFPLK: process.env.SANA_PASSWORD === undefined ? false : process.env.SANA_PASSWORD,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/TR4CYrZ.jpg' : process.env.LG_LOGO,
