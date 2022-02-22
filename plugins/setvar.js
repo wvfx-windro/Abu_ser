@@ -10,14 +10,14 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = Config.LOGOSK";
+    r_text[0] =' + Config.LOGOSK + '
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋 𝐒𝐄𝐓𝐕𝐀𝐑💘━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: ' + Config.BOT + '
    HELLO 👋 💝Iᴀᴍ Sᴀɴᴀ Mᴡᴏʟ💝
   
     *Bʏ Sᴀɴᴀ Mᴡᴏʟ Tᴇᴀᴍ *
