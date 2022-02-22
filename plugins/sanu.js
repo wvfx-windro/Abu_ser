@@ -26,7 +26,7 @@ Sana.addCommand({pattern: '.git', fromMe: whb, dontAddCommandList: true}, (async
 
     const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: '♡︎ ɢɪᴛ ʟɪɴᴋs♡︎ \n\n\nhttps://github.com/Ajx-Abu/Abu_ser\n\n\nhttps://github.com/Ajx-Abu/Abu_ser'}, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: '♡︎ ɢɪᴛ ʟɪɴᴋs♡︎ \n\n\nhttps://github.com/Ajx-Abu/Abu_ser\n\n\nhttps://github.com/Ajx-Abu/Sana-Mwol'}, type: 1},
 
         {buttonId: 'id2', buttonText: {displayText: '♡︎ ɢʀᴏᴜᴘ ʟɪɴᴋ ♡︎\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk'}, type: 1},
 
