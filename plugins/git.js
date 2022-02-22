@@ -15,7 +15,7 @@ Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message,
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/SoMPTZ5.jpg";
+    r_text[0] = "Config.LOGOSK
     
     
     var i = Math.floor(1*Math.random())
