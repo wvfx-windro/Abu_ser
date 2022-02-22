@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: ' + Config.BOT + '
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.BOT})
   
     *Bʏ Sᴀɴᴀ Mᴡᴏʟ Tᴇᴀᴍ *
 ■□■□■□■□■□■□■□■□■□■□
