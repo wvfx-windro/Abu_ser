@@ -30,6 +30,7 @@ module.exports = {
     OWNER: process.env.OWNER_NAME === undefined ? '💖Abu Ser💖' : process.env.OWNER_NAME,
     BC: process.env.BROADCAST_NAME === undefined ? 'ɪ̄.ᴀᴍ/ꪶ͢sᴀɴᴀ ᴍᴡᴏʟꫂ⁩' : process.env.BROADCAST_NAME,
     PHONE: process.env.NUMBER === undefined ? '+917025868709' : process.env.NUMBER,   
+    GROUP: process.env.LINK === undefined ? 'https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk' : process.env.LINK,
     OA_NAME: process.env.DEPLOYER === undefined ? 'Abu,Ser' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By SANA MWOL' : process.env.ALL_CAPTION,
     MENTION: process.env.TAG_REPLY === undefined ? '917025994178@s.whatsapp.net' : process.env.TAG_REPLY,
