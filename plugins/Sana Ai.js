@@ -257,10 +257,10 @@ if (conf.LANG == 'ML') {
     succ_off = 'സെമി-ഫങ്ഷണൽ ആയി Sana സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
 }
 
-Asena.addCommand({ pattern: 'maalu ?(.*)', desc: fulleva_dsc, fromMe: true,dontAddCommandList: true, usage: '.maalu on / off' }, (async (message, match) => {
-    var maalu_status = `${conf.TALKING_SANA}`
+Asena.addCommand({ pattern: 'sanu on ?(.*)', desc: fulleva_dsc, fromMe: true,dontAddCommandList: true, usage: '.sanu on / off' }, (async (message, match) => {
+    var sanu_status = `${conf.TALKING_SANA}`
     if (match[1] == 'on') {
-        if (maalu_status == 'true') {
+        if (sanu_status == 'true') {
             return await message.client.sendMessage(message.jid, '*' + already_on + '*', MessageType.text)
         }
         else {
@@ -273,7 +273,7 @@ Asena.addCommand({ pattern: 'maalu ?(.*)', desc: fulleva_dsc, fromMe: true,dontA
         }
     }
     else if (match[1] == 'off') {
-        if (maalu_status !== 'true') {
+        if (lulu_status !== 'true') {
             return await message.client.sendMessage(message.jid, '*' + already_off + '*', MessageType.text)
         }
         else {
