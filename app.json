@@ -124,7 +124,7 @@
         "TALKING_ABU": {
             "description": "Turn your account into a talking Abu!",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "NO_LOG": {
             "description": " Set true if you don't want to see error log.",
