@@ -11,7 +11,7 @@ const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./Sana/');
+const {Message, StringSession, Image, Video} = require('./Abu/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
@@ -138,12 +138,12 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('💖Sana is Working💖 ' + config.WORKTYPE + ' new 🍃'));
+            chalk.green.bold('💖Abu ser Working💖 ' + config.WORKTYPE + ' new 🍃'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
-                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/sana.png"), MessageType.image, { caption: `*💙ʜᴇʏ ʙʀᴏ sᴀɴᴀ ᴍᴡᴏʟ ɪs  ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` ❤️* \n\n*💝ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ sᴀɴᴀ ᴍᴡᴏʟ ᴀɴᴅ ᴀʙᴜ sᴇʀ ʙᴏᴛ💝* \n\n*💝ᴘʟᴇᴀsᴇ ɴɪɴɢᴀʟᴜᴅᴇ sᴀᴘᴘᴏʀᴛ ᴠᴇɴᴀᴍ 😥ɴɪɴɢᴀʟᴏᴋᴋᴇ ᴏʟʟᴜ ɴᴀᴍᴍᴀᴋ💝** \n\n*😍ᴀᴘᴘᴏ ᴇɴɢᴀɴᴇ ᴘᴏʟɪ ᴀʟʟᴇ sᴀɴᴀ ᴍᴡᴏʟ ғᴇᴇᴅ ʙᴀᴄᴋ sᴇɴᴛ ᴄʜᴀʏʏɪᴛᴏ ᴀʙᴜᴠɪɴᴛᴇ ᴡʜᴀᴛsᴀᴘᴏɪʟᴇᴋ😍*`});
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/Abu.png"), MessageType.image, { caption: `*💙ʜᴇʏ ʙʀᴏ ᴀʙᴜ sᴇʀ ɪs  ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` ❤️* \n\n*💝ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ  ᴀʙᴜ sᴇʀ ʙᴏᴛ💝* \n\n*💝ᴘʟᴇᴀsᴇ ɴɪɴɢᴀʟᴜᴅᴇ sᴀᴘᴘᴏʀᴛ ᴠᴇɴᴀᴍ 😥ɴɪɴɢᴀʟᴏᴋᴋᴇ ᴏʟʟᴜ ɴᴀᴍᴍᴀᴋ💝** \n\n*😍ᴀᴘᴘᴏ ᴇɴɢᴀɴᴇ ᴘᴏʟɪᴋᴋᴀʟᴇ😍*`});
                 } else {
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*◄━⦁💝 Sana Mwol💝⦁━►*' + degisiklikler + '```', MessageType.text
+                        '*◄━⦁💝 Abu Ser💝⦁━►*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -336,8 +336,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤ SANA MWOL️💙 ~______~*' +
-                                    '\n*SANA IS  ERROR🔰' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤𝙰𝙱𝚄 𝚂𝙴𝚁💙 ~______~*' +
+                                    '\n*𝙰𝙱𝚄 𝚂𝙴𝚁 𝙿𝙾𝙻𝙸 𝙰𝙻𝙻𝙴🔰' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
