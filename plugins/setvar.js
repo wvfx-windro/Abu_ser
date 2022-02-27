@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: 'command help menu'}, 
    ` + config.LOGO_NAME + `
 
   
-    *` + config.AFN + `*
+    *` + config.ALL + `*
 ■□■□■□■□■□■□■□■□■□■□
 All setvars are
 
