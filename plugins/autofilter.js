@@ -10,11 +10,11 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-asena.addCommand({pattern: 'nijin', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
+asena.addCommand({pattern: 'abuser', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
     var r_text = new Array ();
 
-    r_text[1] = "ɴɪᴊɪɴ 𝙸𝚜 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛";
+    r_text[1] = "𝙰𝚋𝚞 𝙸𝚜 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛";
 
     var i = Math.floor(2*Math.random())
 
@@ -24,11 +24,11 @@ asena.addCommand({pattern: 'nijin', fromMe: true, deleteCommand: true, desc: GM,
 
     }));
 
-asena.addCommand({pattern: 'husni', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
+asena.addCommand({pattern: 'abu', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
         var r_text = new Array ();
 
-        r_text[1] = "ʜᴜsɴɪ 𝙸𝚜 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛";
+        r_text[1] = "𝙰𝚋𝚞 𝙸𝚜 𝙱𝚘𝚝";
 
         var i = Math.floor(2*Math.random())
 
@@ -42,11 +42,11 @@ asena.addCommand({pattern: 'husni', fromMe: true, deleteCommand: true, desc: GN,
 
     if (Config.WORKTYPE == 'public') {
 
-        asena.addCommand({pattern: 'nijin', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
+        asena.addCommand({pattern: 'abu', fromMe: false, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
             var r_text = new Array ();
 
-            r_text[1] = "ɴɪᴊɪɴ 𝙸𝚜 𝙼𝚢 𝙲𝚛𝚎𝚊𝚝𝚘𝚛🥰";
+            r_text[1] = "𝙰𝚋𝚞 𝙸𝚜 𝙼𝚢 𝙲𝚛𝚎𝚊𝚝𝚘𝚛🥰";
 
             var i = Math.floor(2*Math.random())
 
@@ -56,11 +56,11 @@ asena.addCommand({pattern: 'husni', fromMe: true, deleteCommand: true, desc: GN,
 
             }));
 
-        asena.addCommand({pattern: 'husni', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
+        asena.addCommand({pattern: 'abuser', fromMe: false, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
                 var r_text = new Array ();
 
-                r_text[1] = "ʜᴜsɴɪ 𝙸𝚜 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛";
+                r_text[1] = "𝙰𝚋𝚞 𝙸𝚜 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛";
           
                 var i = Math.floor(2*Math.random())
 
