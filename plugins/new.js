@@ -30,7 +30,7 @@ WhatsAlexa.addCommand({pattern: 'git', fromMe: whb, dontAddCommandList: true}, (
 
         {buttonId: 'id2', buttonText: {displayText: '♡︎ ɢʀᴏᴜᴘ ʟɪɴᴋ ♡︎\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk'}, type: 1},
 
-        {buttonId: 'id3', buttonText: {displayText: '♡︎ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ ♡︎\n\n\nhttp://wa.me/917025994178'}, type: 1}
+        {buttonId: 'id3', buttonText: {displayText: '♡︎ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ ♡︎\n\n\nhttp://wa.me/` + config.LOGO_NAME + `'}, type: 1}
 
       ]
 
