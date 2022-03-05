@@ -24,8 +24,8 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       ]
       
       const buttonMessage = {
-          contentText: '      \n╔══╗╔╗─╔══╗╔╗─╔╗╔═╗        \n║╔╗║║║─╚║║╝║╚╦╝║║╦╝        \n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗        \n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝ \n\n *╔✘ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*»\n*║✘Bᴏᴛ ɴᴀᴍᴇ :* ' + Config.BOT + '\n** ' + Config.OWNER + '*\n*║✘ᴛɪᴍᴇ   :* ```' + plk_say + '```\n*║✘Wᴏʀᴋ ᴛʏᴘᴇ : ' + Config.WORKTYPE + '*\n*║✘ Pʀᴇғɪx : ' + Config.HANDLERS + '*    \n *╚✘*\n           ** ' + Config.LOGO_NAME + '⁩*         \n\n*╭◪ ᴄᴏᴅᴅᴇᴅ ʙʏ ꪶ͢ᴀʙᴜ sᴇʀꫂ*\n*╰─────────────────❋ཻུ۪۪⸙*\n',
-          footerText: '©ꪶ͢ᴀʙᴜ sᴇʀ ™ꫂ',
+          contentText: '      \n╔══╗╔╗─╔══╗╔╗─╔╗╔═╗        \n║╔╗║║║─╚║║╝║╚╦╝║║╦╝        \n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗        \n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝ \n\n *╔✘ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*»\n*║✘Bᴏᴛ ɴᴀᴍᴇ :* ' + Config.BOT + '\n** ' + Config.OWNER + '*\n*║✘ᴛɪᴍᴇ   :* ```' + plk_say + '```\n*║✘Wᴏʀᴋ ᴛʏᴘᴇ : ' + Config.WORKTYPE + '*\n*║✘ Pʀᴇғɪx : ' + Config.HANDLERS + '*    \n *╚✘*\n           ** ' + Config.LOGO_NAME + '⁩*         \n\n*╭◪ ᴄᴏᴅᴅᴇᴅ ʙʏ ꪶ͢ᴡɪɴᴅʀᴏꫂ*\n*╰─────────────────❋ཻུ۪۪⸙*\n',
+          footerText: '©ꪶ͢ɪᴛᴀᴄʜɪ™ꫂ',
           buttons: buttons,
           headerType: 1
       }
