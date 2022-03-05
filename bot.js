@@ -138,7 +138,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('💖Abu ser Working💖 ' + config.WORKTYPE + ' new 🍃'));
+            chalk.green.bold('💖Itachi Working💖 ' + config.WORKTYPE + ' new 🍃'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*◄━⦁💝 Abu Ser💝⦁━►*' + degisiklikler + '```', MessageType.text
+                        '*◄━⦁💝Itachi💝⦁━►*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -336,8 +336,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤𝙰𝙱𝚄 𝚂𝙴𝚁💙 ~______~*' +
-                                    '\n*𝙰𝙱𝚄 𝚂𝙴𝚁 𝙿𝙾𝙻𝙸 𝙰𝙻𝙻𝙴🔰' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤𝐈𝐓𝐀𝐂𝐇𝐈💙 ~______~*' +
+                                    '\n* 𝐈𝐓𝐀𝐂𝐇𝐈 𝐏𝐎𝐋𝐈 𝐀𝐋𝐋𝐄🔰' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
