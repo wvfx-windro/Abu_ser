@@ -3,12 +3,12 @@
     "description": "Abu is the Modified Version of WhatsAsena, Made By Ajx-Abu with Baileys.",
     "logo": "https://i.imgur.com/t6x2aR5.jpg",
     "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Afx-Abu/Abu_ser",
-    "website":   "https://github.com/Afx-Abu/Abu_ser",
-    "success_url": "https://github.com/Afx-Abu/Abu_ser",
+    "repository": "https://github.com/wvfx-windro/Itachi",
+    "website":   "https://github.com/wvfx-windro/Itachi",
+    "success_url": "https://github.com/wvfx-windro/Itachi",
     "stack": "container",
     "env": {
-        "ABU_SER_CODE": {
+        "ITACHI_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
